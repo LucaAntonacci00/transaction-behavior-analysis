@@ -1,0 +1,19 @@
+# Transaction Behavior Analysis
+
+Exploratory analysis of a 30,000-record transaction dataset using Excel.
+
+## Project Goals
+- Identify customer transaction patterns
+- Analyze merchant category concentration
+- Compare online vs brick-and-mortar activity
+- Build customer frequency distribution
+
+## Dataset
+- 30,000 transactions
+- 1,126 unique customers
+- Includes amount, merchant category, geography, and channel
+
+## Key Insight
+Customer activity is moderately right-skewed, with ~61% completing 11–30 transactions and a small high-frequency segment forming a long tail.
+
+More analysis and visualizations included in the `/analysis` folder.
